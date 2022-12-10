@@ -1,0 +1,14 @@
+#background{background-image: url("../../../images/fondo.png");background-repeat: no-repeat;background-position: fixed center;}
+.collapsible-header{background-color: #89AE17;color:#fff; font-weight: 600;font-size: 1.1em;}
+.collapsible-body{ background-color: #DADADA;color:#06500C; }
+.collapsible-body a{color:#06500C;}
+p.completo{text-align: justify;text-justify: inter-word;color:#302406;}
+h4.DYP, h4.GCO{color:#06500C;font-weight: 600;font-size: 1.9em;}
+h4.GEN, h4.APR, h4.APL{color:#9cc61a;font-weight: 600;font-size: 1.9em;}
+h4.ECM {color:#5fe85b;font-weight: 600;font-size: 1.9em;}
+h4.GTH, h4.FCR, h4.TEC, h4.DOC, h4.JUR, h4.FIS, h4.GCT{color:#06500c;font-weight: 600;font-size: 1.9em;}
+.navegacion a{font-weight: 600;font-size: 1.5em; color:#000;}
+#processAdmon h4{font-size: 1.8rem; color:#06500C;}
+input[type="submit"]{background-color:#06500C;}
+.btn{background-color:#06500C !important; }
+.txtUrl{color: #06500c !important;font-weight: normal;}
